@@ -1,0 +1,10 @@
+# OS-specific files
+.DS_Store
+Thumbs.db
+
+# Idea
+/.idea/
+
+# Node
+/node_modules/
+/npm-debug.log

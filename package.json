@@ -1,0 +1,23 @@
+{
+  "name": "racing-for-await-of",
+  "version": "1.0.0",
+  "description": "Asynchronous iteration over array by promise resolve time.",
+  "author": "Pavel Klimashkin @klimashkin",
+  "license": "MIT",
+  "homepage": "https://github.com/klimashkin/racing-for-await-of",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/klimashkin/racing-for-await-of.git"
+  },
+  "bugs": {
+    "url": "https://github.com/klimashkin/racing-for-await-of/issues"
+  },
+  "main": "index.js",
+  "keywords": [
+    "await",
+    "async",
+    "iterator",
+    "for-await-of",
+    "promise"
+  ]
+}
